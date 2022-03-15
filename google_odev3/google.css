@@ -1,0 +1,38 @@
+.img {
+    margin: 230px;
+}
+
+.about {
+    margin: 40px;
+    font-size: 25px;
+    font-style: normal;
+    opacity: 0.75;
+}
+
+.a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #000;
+}
+.txt {
+    width: 600px;
+    height: 50px;
+
+    margin-top: 25px;
+    
+}
+.search {
+ 
+    font-size: 25px;
+    margin-top: 60px;
+    margin-left: 600px;
+    
+}
+.end {
+    background-color:gainsboro;
+    height: 60px;
+    width: 2040px;
+    margin-top: 309px;
+
+}
+
